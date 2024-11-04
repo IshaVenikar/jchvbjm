@@ -1,23 +1,4 @@
 # Image Upload PWA Example
-
-This project, **image-upload-pwa-example**, is a modern web application built using React, TypeScript, and Vite. It's designed as a Progressive Web App (PWA) and allows users to load and save images to IndexedDB from their camera roll or directly from their camera. For a true PWA experience, it is configured to be served over HTTPS, even in development, using `https-localhost`.
-
-## Getting Started
-
-These instructions will guide you through setting up the project on your local machine for development and testing purposes.
-
-### Prerequisites
-
-- [Node.js](https://nodejs.org/) (version 18.x or later)
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/snowball-tools/image-upload-pwa-example.git
-   cd image-upload-pwa-example
-   ```
-2. Install the dependencies
   ```bash
   npm install
   ```
